@@ -1,0 +1,4 @@
+2026-03-24 11:38:04.603 xcodebuild[39953:104319] [MT] IDEDistribution: -[IDEDistributionLogging _createLoggingBundleAtPath:]: Created bundle at path "/var/folders/t5/f77_gwnj6p95qxy9py3fckx00000gn/T/Step_Monitor_2026-03-24_11-38-04.603.xcdistributionlogs".
+Exported Step_Monitor to: /Users/runner/work/Step_Monitor/Step_Monitor/Step_Monitor.ipa
+** EXPORT SUCCEEDED **
+
